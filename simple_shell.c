@@ -19,7 +19,7 @@ static void sig_handler(int uuv)
 }
 
 /**
- * main - main function for the shell
+ * main - main function for the linux simple shell
  * @argc: number of arguments passed to main
  * @argv: array of arguments passed to main
  * @environment: array of environment variables
@@ -65,4 +65,4 @@ int main(int argc __attribute__((unused)), char **argv, char **environment)
 	free_env(vars.env);
 	free(vars.buffer);
 	exit(vars.status);
-}
+i}
