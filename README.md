@@ -1,4 +1,4 @@
-Simple Shell Project
+Simple Shell Project/ linux
 
 Description
 
