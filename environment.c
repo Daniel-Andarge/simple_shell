@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * make_env - make the shell environment from the environment passed to main
+ * make_env - make the shell environment from the env passed to main
  * @env: environment passed to main
  *
  * Return: pointer to the new environment
