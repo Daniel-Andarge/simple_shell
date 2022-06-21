@@ -23,7 +23,6 @@ Standard functions and system calls employed in simple_shell include:
 
 ## File Structure
 * [AUTHORS](AUTHORS) - List of contributors to this repository
-* [man_1_simple_shell](man_1_simple_shell) - Manual page for the simple_shell
 * [shell.h](shell.h) - program header file
 * [builtins.c](builtins.c) - major builtin functions
   * `check_for_builtins` - checks to see if the user's command matches a builtin
