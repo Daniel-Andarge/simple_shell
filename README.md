@@ -3,8 +3,6 @@
 
 ![Shell](shell.jpg)
 
-A brief description of what this project does and who it's for
-
 ## Table of Contents
 * [Description](#description)
 * [File Structure](#file-structure)
